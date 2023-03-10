@@ -38,12 +38,10 @@
 </div>
 
 <h3 align="center">In this competition, your goal is to use satellite imagery to detect ships in ports.</h3>
-<p align="center">
-  ![image](https://user-images.githubusercontent.com/64552325/224273167-1d829b70-a3ca-4bad-9410-fc1a170f41d3.png)
+
+<p align="center" width="100%">
+  <img width="100%" src="https://user-images.githubusercontent.com/64552325/224277157-1361f78f-55fa-43f9-8c88-7dd3450c5ef9.png">
 </p>
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
