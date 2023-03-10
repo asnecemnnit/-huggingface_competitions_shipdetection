@@ -30,16 +30,16 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-<h3 align="center">huggingface_competitions_aiornot</h3>
+<h3 align="center">huggingface_competitions_shipdetection</h3>
 
   <p align="center">
-   Repository containing my code, models, and results for Hugging Face competition ship-detection. See https://huggingface.co/spaces/competitions/ship-detection
+   Repository containing my code, and results for Hugging Face competition ship-detection. See https://huggingface.co/spaces/competitions/ship-detection
   </p>
 </div>
 
 <h3 align="center">In this competition, your goal is to use satellite imagery to detect ships in ports.</h3>
 <p align="center">
-  <img title="Image" alt="Image" src="/images/comp.png">
+  ![image](https://user-images.githubusercontent.com/64552325/224273167-1d829b70-a3ca-4bad-9410-fc1a170f41d3.png)
 </p>
 
 
